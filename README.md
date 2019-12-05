@@ -1,5 +1,3 @@
 # Datos-TP2
 
-Do it for Ivo
-
-Primer submit: KNN - Test Size: 0.04, seed: 139, n_neighbors=103
+Los features utilizados en los modelos provienen de Features Finales. Feature Engineering fueron los primeros pasos en el trabajo. Cada algoritmo tiene su notebook separada, para no mezclar configuración de los mismmos
